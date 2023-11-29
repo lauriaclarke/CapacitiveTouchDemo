@@ -20,7 +20,7 @@ builtin functionlities: https://playground.arduino.cc/Main/CapacitiveSensor/
 // plain resistor side
 #define SENSOR_PIN_A 8
 // side that your "sensor" is connected to
-#define SENSOR_PIN_B 12
+#define SENSOR_PIN_B 9
 
 //---------------------------
 // MATH VALUES
